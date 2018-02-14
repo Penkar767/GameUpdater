@@ -1,1 +1,4 @@
+<Version: 1.00.001>
+/data/Map001.json https://raw.githubusercontent.com/Penkar767/GameUpdater/master/Map001.json
+<End of Version>
 
