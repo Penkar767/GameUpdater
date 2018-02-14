@@ -1,4 +1,4 @@
-<Version 1.01>
+<Version: 1.01>
 /js/plugins/SRD_GameUpgrade.js https://raw.githubusercontent.com/Penkar767/GameUpdater/master/SRD_GameUpgrade.js
 /js/plugins/SRD_TitleCommandCustomizer.js https://raw.githubusercontent.com/Penkar767/GameUpdater/master/SRD_TitleCommandCustomizer.js
 <End of Version>
