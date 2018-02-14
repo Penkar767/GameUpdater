@@ -4,4 +4,5 @@
 
 <Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/Penkar767/GameUpdater/master/Map001.json
+/data/Map003.json https://raw.githubusercontent.com/Penkar767/GameUpdater/master/Map003.json
 <End of Version>
